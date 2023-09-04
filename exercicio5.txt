@@ -1,0 +1,18 @@
+INICIO 
+	VARIAVEIS numero, unidade, dezena, centena, resultado final;
+	DIGITE UM NUMERO <numero qualquer = numero>;
+	SE numero > 99 E numero < 1000;
+		ENCONTRAR A UNIDADE;
+			unidade = numero % 10;
+		ENCONTRAR A DEZENA;
+			numero = numero / 10;
+			dezena = numero % 10;
+		ENCONTRAR A CENTENA;
+			numero = numero / 10;
+			centena = numero %10;
+		CALCULAR A SOMA DO CUBO DAS VARIAVEIS ENCONTRADAS;
+			resultado final = unidade^3 + dezena^3 + centena^3;
+		IMPRIMA resultado final;
+	SE NAO;
+	  IMPRIMA “o numero deve ser maior que 99 e menor que 1000”
+FIM;
