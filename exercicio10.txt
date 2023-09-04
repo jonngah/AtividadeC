@@ -1,0 +1,9 @@
+INICIO
+  VARIAVEIS x1, x2, y1, y2, distancia;
+  
+  ESCREVA O PRIMEIRO PONTO(x1, y1);
+  ESCREVA O SEGUNDO PONTO(x2, y2);
+  A DISTANCIA É DADA POR:
+  	distancia = RAIZ_QUADRADA((x1 - x2)*(x1 - x2) + (y1 - y2)*(y1 - y2))
+  RETORNE O VALOR distancia;
+FIM
