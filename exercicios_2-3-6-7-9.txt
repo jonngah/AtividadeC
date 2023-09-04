@@ -1,0 +1,14 @@
+questao 2)
+Expressão relacional é possível realizar comparações entre dois dados, já a expressao lógica é quando usamos condições, e isso nos possibilita avaliar mais de uma comparação. 
+
+questao 3)
+Um espaço de memória unicamente identificado pelo programa, para acessos de leitura e/ou escrita de dados. É composto pelo identificador, endereço que ele ocupa na memória e pelo dado oferecido.
+
+questao 6)
+Um algoritmo é uma sequência de tarefas realizadas a fim de chegar ao objetivo. O programa é um algoritmo escrito em uma linguagem de programação.
+
+questao 7)
+O código, que é o que escrevemos em linguagem verbal/mais humana. Compilação, que é a tradução do nosso código para a linguagem dos computadores. Execução, onde vemos nosso código rodando na máquina.
+
+questao 9) 
+Dividir uma parte do código em subpartes para obter soluções de alto nível, com isso, tomar decisões sobre a estrutura de dados e algoritmos.
